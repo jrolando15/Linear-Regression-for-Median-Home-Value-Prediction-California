@@ -18,6 +18,17 @@ To run this project, you need to have Python installed along with the following 
 - Scikit-Learn
 - NumPy
 
+## Dependencies
+
+This project requires the following Python packages:
+
+- torch
+- torchvision
+- pyproject-tom
+- tensorflow
+- scikit-learn
+- numpy
+
 You can install the required libraries using the following commands:
 ''' bash
 pip install torch torchvision
